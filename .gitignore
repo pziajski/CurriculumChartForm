@@ -344,5 +344,5 @@ healthchecksdb
 MigrationBackup/
 
 # ignore the bin and obj folders
-/bin
-/obj
+/DatabaseExample/bin
+/DatabaseExample/obj
