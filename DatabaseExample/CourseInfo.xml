@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCourse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Course>
+    <Name>AMT 453</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>MTH 356</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>AMT 453</Name>
+    <Semester>6</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>MTH 356</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>COM 455</Name>
+    <Semester>3</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ECR 255</string>
+      <string>ELD 255</string>
+      <string>MTH 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>COM 455</Name>
+    <Semester>3</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>ECR 255</string>
+      <string>ELD 255</string>
+      <string>MTH 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>COM 455</Name>
+    <Semester>3</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>ECR 255</string>
+      <string>ELD 255</string>
+      <string>MTH 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>COM 556</Name>
+    <Semester>5</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>COM 455</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>CSF 453</Name>
+    <Semester>4</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>DGS 255</string>
+      <string>PHY 354</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>DGS 255</Name>
+    <Semester>3</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ELD 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>DGS 255</Name>
+    <Semester>3</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>ELD 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>DGS 255</Name>
+    <Semester>3</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>ELD 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>DGS 355</Name>
+    <Semester>4</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>DGS 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>DGS 355</Name>
+    <Semester>5</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>DGS 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>EAC 150</Name>
+    <Semester>1</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>EAC 150</Name>
+    <Semester>1</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>EAC 150</Name>
+    <Semester>1</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ECP 455</Name>
+    <Semester>4</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>DGS 255</string>
+      <string>ECR 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ECP 455</Name>
+    <Semester>4</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>DGS 255</string>
+      <string>ECR 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ECP 455</Name>
+    <Semester>4</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>DGS 255</string>
+      <string>ECR 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ECR 255</Name>
+    <Semester>2</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETY 155</string>
+      <string>LIN 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ECR 255</Name>
+    <Semester>2</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>ETY 155</string>
+      <string>LIN 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ECR 255</Name>
+    <Semester>2</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>ETY 155</string>
+      <string>LIN 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ECR 353</Name>
+    <Semester>4</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>COM 455</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ELD 255</Name>
+    <Semester>2</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETY 155</string>
+      <string>LIN 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ELD 255</Name>
+    <Semester>2</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>ETY 155</string>
+      <string>LIN 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ELD 255</Name>
+    <Semester>2</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>ETY 155</string>
+      <string>LIN 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ELM 453</Name>
+    <Semester>5</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>ECR 255</string>
+      <string>PHY 354</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ETD 555</Name>
+    <Semester>5</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>COM 455</string>
+      <string>ECP 455</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ETD 555</Name>
+    <Semester>5</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>COM 455</string>
+      <string>ECP 455</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ETY 155</Name>
+    <Semester>1</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ETY 155</Name>
+    <Semester>1</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>ETY 155</Name>
+    <Semester>1</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>IPS 255</Name>
+    <Semester>2</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>LIN 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>IPS 255</Name>
+    <Semester>2</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>LIN 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>IPS 255</Name>
+    <Semester>2</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>LIN 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>LIN 155</Name>
+    <Semester>1</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>LIN 155</Name>
+    <Semester>1</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>LIN 155</Name>
+    <Semester>1</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>LNX 155</Name>
+    <Semester>1</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>LNX 155</Name>
+    <Semester>1</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>LNX 155</Name>
+    <Semester>1</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MCO 455</Name>
+    <Semester>3</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>MIR 355</string>
+      <string>PRG 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MCO 455</Name>
+    <Semester>3</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>MIR 355</string>
+      <string>PRG 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MCO 455</Name>
+    <Semester>3</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>MIR 355</string>
+      <string>PRG 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MCO 556</Name>
+    <Semester>6</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>DGS 355</string>
+      <string>MCO 455</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MEC 300</Name>
+    <Semester>3</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>ECR 255</string>
+      <string>ELD 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MEC 300</Name>
+    <Semester>3</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>ECR 255</string>
+      <string>ELD 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MIR 355</Name>
+    <Semester>2</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>LIN 155</string>
+      <string>LNX 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MIR 355</Name>
+    <Semester>2</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>LIN 155</string>
+      <string>LNX 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MIR 355</Name>
+    <Semester>2</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>LIN 155</string>
+      <string>LNX 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MTH 155</Name>
+    <Semester>1</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MTH 155</Name>
+    <Semester>1</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MTH 155</Name>
+    <Semester>1</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MTH 255</Name>
+    <Semester>2</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>MTH 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MTH 255</Name>
+    <Semester>2</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>MTH 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MTH 255</Name>
+    <Semester>2</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>MTH 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MTH 356</Name>
+    <Semester>4</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>MTH 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>MTH 356</Name>
+    <Semester>4</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>MTH 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>NET 455</Name>
+    <Semester>3</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>MIR 355</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>NET 455</Name>
+    <Semester>3</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>MIR 355</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>NET 455</Name>
+    <Semester>3</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>MIR 355</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>NET 556</Name>
+    <Semester>5</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>NSP 655</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>NSP 655</Name>
+    <Semester>4</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>NET 455</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OCM 624</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>NET 556</string>
+      <string>WCM 555</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>OLS 655</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>PRG 455</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>PHY 354</Name>
+    <Semester>3</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>MTH 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>PRG 155</Name>
+    <Semester>1</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>PRG 155</Name>
+    <Semester>1</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>PRG 155</Name>
+    <Semester>1</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string />
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>PRG 255</Name>
+    <Semester>2</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>LNX 155</string>
+      <string>PRG 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>PRG 255</Name>
+    <Semester>2</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>LNX 155</string>
+      <string>PRG 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>PRG 255</Name>
+    <Semester>2</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>LNX 155</string>
+      <string>PRG 155</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>PRG 355</Name>
+    <Semester>3</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>PRG 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>PRG 455</Name>
+    <Semester>4</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>PRG 355</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>TEC 400</Name>
+    <Semester>4</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>EAC 150</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>TEC 400</Name>
+    <Semester>4</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>EAC 150</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>TEC 400</Name>
+    <Semester>4</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>EAC 150</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>TPJ 452</Name>
+    <Semester>4</Semester>
+    <Program>EEN</Program>
+    <Prerequisite>
+      <string>COM 455</string>
+      <string>DGS 255</string>
+      <string>MCO 255</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>TPJ 655</Name>
+    <Semester>6</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>MCO 455</string>
+      <string>TEC 400</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>TPJ 655</Name>
+    <Semester>6</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>ETD 555</string>
+      <string>MCO 455</string>
+      <string>TEC 400</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>TRN 553</Name>
+    <Semester>5</Semester>
+    <Program>EET</Program>
+    <Prerequisite>
+      <string>ECR 353</string>
+      <string>MCO 455</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>WCM 555</Name>
+    <Semester>5</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>COM 455</string>
+      <string>MCO 455</string>
+    </Prerequisite>
+  </Course>
+  <Course>
+    <Name>CMD 234</Name>
+    <Semester>2</Semester>
+    <Program>ECT</Program>
+    <Prerequisite>
+      <string>LNX 155</string>
+      <string>MTH 155</string>
+    </Prerequisite>
+  </Course>
+</ArrayOfCourse>
